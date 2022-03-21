@@ -5,7 +5,7 @@ import { HashRouter as Router } from 'react-router-dom';
 import TodoContainer from './components/TodoContainer';
 
 // styesheet
-import './functionBased/App.css';
+import './App.css';
 
 ReactDOM.render(
   <React.StrictMode>
