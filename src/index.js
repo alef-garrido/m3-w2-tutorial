@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import { HashRouter as Router } from 'react-router-dom';
 // component
-import TodoContainer from './functionBased/components/TodoContainer';
+import TodoContainer from './components/TodoContainer';
 
 // styesheet
 import './functionBased/App.css';
